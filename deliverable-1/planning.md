@@ -118,7 +118,7 @@ Describe your team's working culture.
 
 
 ----
-### Highlights
+## Highlights
 
 Specify 3 - 5 key decisions and/or insights that came up during your meetings
 and/or collaborative process.
